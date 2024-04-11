@@ -10,6 +10,7 @@
     * What is the best batch size
     * What is the best learning rate
     * What is the best size for the images to be in
+    * Can we use the skeleton2animal models? They are using pix2pix so maybe we can use them for our generator and discriminator and then train on a new dataset
 
 
 ### Data
